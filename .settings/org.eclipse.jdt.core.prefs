@@ -1,4 +1,8 @@
 eclipse.preferences.version=1
+<<<<<<< HEAD
+=======
+org.eclipse.jdt.core.compiler.codegen.methodParameters=do not generate
+>>>>>>> 8567ff4ce3c3c7b3cc47f8bd11aa7bb196f259c7
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=21
 org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
 org.eclipse.jdt.core.compiler.compliance=21

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
 	<name>StaticConstructor</name>
+=======
+	<name>discord</name>
+>>>>>>> 8567ff4ce3c3c7b3cc47f8bd11aa7bb196f259c7
 	<comment></comment>
 	<projects>
 	</projects>
