@@ -27,6 +27,13 @@ public class Main {
 		c1.bilgiGoster();
 		c2.bilgiGoster();
 		c3.bilgiGoster();
+		Bilet.sonBiletNo = 1000 ;
+		Bilet d1 = new Bilet ("Ahmet");
+		Bilet d2 = new Bilet ("Mehmet");
+		Bilet d3 = new Bilet ("Aydın");
+		d1.bilgiGoster();
+		d2.bilgiGoster();
+		d3.bilgiGoster();
 		
 
 		
